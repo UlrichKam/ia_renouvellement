@@ -1,0 +1,6 @@
+Data/
+mlruns/
+__pycache_/
+catboost_info/
+Dashboard Modele/
+tmp/
